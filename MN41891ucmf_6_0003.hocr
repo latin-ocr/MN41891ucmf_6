@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./MN41891ucmf_6_0003.png"; bbox 0 0 2218 3168; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 26 246 444 347">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 26 246 444 347">
+     <span class='ocr_line' id='line_1_1' title="bbox 26 246 444 347; baseline 0.012 -5"><span class='ocrx_word' id='word_1_1' title='bbox 26 246 289 344; x_wconf 85' lang='lat' dir='ltr'><strong>FILMED</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 310 248 444 347; x_wconf 77' lang='lat'>2001</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 624 937 912">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 624 937 912">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 624 937 728; baseline 0.012 -8"><span class='ocrx_word' id='word_1_3' title='bbox 0 624 51 720; x_wconf 66' lang='grc' dir='ltr'><strong>Ῥ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 74 624 393 725; x_wconf 80' lang='lat' dir='ltr'>CHICAGO</span> <span class='ocrx_word' id='word_1_5' title='bbox 415 628 726 728; x_wconf 80' lang='lat' dir='ltr'>LIBRARY</span> <span class='ocrx_word' id='word_1_6' title='bbox 935 664 937 666; x_wconf 75' lang='grc'><strong>’</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 0 790 440 912; baseline 0.007 -22"><span class='ocrx_word' id='word_1_7' title='bbox 0 790 139 912; x_wconf 59' lang='grc' dir='ltr'><strong>ΗΟ,</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 162 793 227 890; x_wconf 87' lang='lat' dir='ltr'><strong>IL</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 267 792 440 893; x_wconf 81' lang='lat'>60637</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 6 1335 751 1440">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 6 1335 751 1440">
+     <span class='ocr_line' id='line_1_4' title="bbox 6 1335 751 1440; baseline 0.012 -10"><span class='ocrx_word' id='word_1_10' title='bbox 6 1341 22 1382; x_wconf 89' lang='lat'>&#39;</span> <span class='ocrx_word' id='word_1_11' title='bbox 83 1335 364 1436; x_wconf 85' lang='lat' dir='ltr'>LIGIONS</span> <span class='ocrx_word' id='word_1_12' title='bbox 386 1338 685 1440; x_wconf 87' lang='lat' dir='ltr'>PROJECT</span> <span class='ocrx_word' id='word_1_13' title='bbox 749 1339 751 1341; x_wconf 67' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 1774 930 1989">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 1774 930 1989">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 1774 930 1989; baseline 0.019 -18"><span class='ocrx_word' id='word_1_14' title='bbox 0 1774 318 1980; x_wconf 45' lang='grc' dir='ltr'><strong>1ῃέἨῆἕὲΙί</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 336 1883 472 1981; x_wconf 88' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 492 1885 930 1989; x_wconf 78' lang='lat' dir='ltr'><strong>HUMANITIES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 18 1114 3160">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 18 1114 3160">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 18 1114 3160; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 18 1114 3160; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
